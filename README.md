@@ -1,4 +1,4 @@
-# DSA-mock-interview-retake-thinkful
+# DSA mock interview retake - thinkful
 
 <img width="1024" alt="instructions 1" src="https://user-images.githubusercontent.com/109993408/223312431-c5a1577d-e04b-4b46-911c-6802a9638c90.png">
 
