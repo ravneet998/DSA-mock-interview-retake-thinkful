@@ -24,3 +24,4 @@ console.log(result)
 
 
 module.exports = combineMonthlyRainfallTotals;
+hey ravneet do you by chance remember what the first DSA mock looked like?
